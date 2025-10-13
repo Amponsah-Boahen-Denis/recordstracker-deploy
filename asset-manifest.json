@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/recordstracker-deploy/static/css/main.755fe9e0.css",
-    "main.js": "/recordstracker-deploy/static/js/main.44f03886.js",
-    "static/media/person.png": "/recordstracker-deploy/static/media/person.4ce1ce10ce20ffcefb44.png",
+    "main.css": "/recordstracker-deploy/static/css/main.d1a6ab8a.css",
+    "main.js": "/recordstracker-deploy/static/js/main.4a76c34c.js",
     "static/media/code.png": "/recordstracker-deploy/static/media/code.f762e36ff19b02ef5f51.png",
-    "static/media/softsheba-hero.webp": "/recordstracker-deploy/static/media/softsheba-hero.341722f4b608e87eb2fa.webp",
     "index.html": "/recordstracker-deploy/index.html",
-    "main.755fe9e0.css.map": "/recordstracker-deploy/static/css/main.755fe9e0.css.map",
-    "main.44f03886.js.map": "/recordstracker-deploy/static/js/main.44f03886.js.map"
+    "main.d1a6ab8a.css.map": "/recordstracker-deploy/static/css/main.d1a6ab8a.css.map",
+    "main.4a76c34c.js.map": "/recordstracker-deploy/static/js/main.4a76c34c.js.map"
   },
   "entrypoints": [
-    "static/css/main.755fe9e0.css",
-    "static/js/main.44f03886.js"
+    "static/css/main.d1a6ab8a.css",
+    "static/js/main.4a76c34c.js"
   ]
 }
